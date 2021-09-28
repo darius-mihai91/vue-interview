@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "code": "IT01",
+    "name": "First",
+    "description": "First item Desc",
+    "active": true
+  },
+  {
+    "id": 2,
+    "code": "IT02",
+    "name": "Second",
+    "description": "Second item Desc",
+    "active": true
+  },
+  {
+    "id": 3,
+    "code": "IT03",
+    "name": "Third",
+    "description": "Third item Desc",
+    "active": true
+  }
+]
